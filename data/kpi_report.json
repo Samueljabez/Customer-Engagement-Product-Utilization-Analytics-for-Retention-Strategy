@@ -1,0 +1,30 @@
+{
+  "OVERALL_HEALTH": {
+    "Total_Customers": 10000,
+    "Churned_Customers": 2037,
+    "Overall_Churn_Rate": "20.37%",
+    "Overall_Retention_Rate": "79.63%"
+  },
+  "ENGAGEMENT": {
+    "Active_Member_Ratio": "51.51%",
+    "Engagement_Retention_Ratio": "1.17x",
+    "Multi_Product_Penetration": "49.16%",
+    "Average_Products": "1.53",
+    "Credit_Card_Adoption": "70.55%"
+  },
+  "FINANCIAL": {
+    "Total_Customer_Balance": "$764,858,893",
+    "Average_Balance": "$76,486",
+    "Premium_Customers": "1,216",
+    "Premium_Customer_Pct": "12.16%",
+    "High_Value_Customers": 7635,
+    "High_Value_Retention": "79.52%"
+  },
+  "RISK": {
+    "At_Risk_Customers": 2761,
+    "At_Risk_Pct": "27.61%",
+    "Premium_Inactive": 2356,
+    "Premium_Inactive_Balance": "$312,265,431",
+    "Premium_Inactive_Churn": "32.77%"
+  }
+}
